@@ -1,0 +1,2 @@
+SolastaPurpleDragonKnightFighterSubclass/&FancySkeletonTitle	Fancy Skeleton
+SolastaPurpleDragonKnightFighterSubclass/&FancySkeletonDescription	I'm a fancy skeleton
