@@ -1,13 +1,13 @@
 {
 	"Id": "SolastaPurpleDragonKnightFighterSubclass",
-	"DisplayName": "SolastaPurpleDragonKnightFighterSubclass",
+	"DisplayName": "Fighter Subclass - Purple Dragon Knight",
 	"Author": "Mathih13",
-	"Version": "0.0.1",
+	"Version": "1.0.0",
 	"ManagerVersion": "0.23.4",
 	"Requirements": [ "SolastaModApi" ],
 	"LoadAfter": [ "SolastaModApi" ],
 	"AssemblyName": "SolastaPurpleDragonKnightFighterSubclass.dll",
 	"EntryMethod": "SolastaPurpleDragonKnightFighterSubclass.Main.Load",
 	"Repository": "https://raw.githubusercontent.com/Mathih13/SolastaPurpleDragonKnightFighterSubclass/main/SolastaPurpleDragonKnightFighterSubclass/Repository.json",
-	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/89"
 }
