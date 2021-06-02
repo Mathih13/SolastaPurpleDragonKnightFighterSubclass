@@ -5,8 +5,8 @@ namespace SolastaPurpleDragonKnightFighterSubclass
 {
     public class RallyingCryPowerBuilder : BaseDefinitionBuilder<FeatureDefinitionPower>
     {
-        private const string RallyingCryPowerName = "CounterStrikePower";
-        private const string RallyingCryPowerGuid = "88c294ce-14fa-4f7e-8b81-ea4d289e3d8b";
+        private const string RallyingCryPowerName = "RallyingCryPowerName";
+        private const string RallyingCryPowerGuid = "cabe94a7-7e51-4231-ae6d-e8e6e3954611";
 
         protected RallyingCryPowerBuilder(string name, string guid)
           : base(DatabaseHelper.FeatureDefinitionPowers.PowerDomainLifePreserveLife, name, guid)

@@ -11,7 +11,7 @@ namespace SolastaPurpleDragonKnightFighterSubclass
     public class InspiringSurgePowerBuilder : BaseDefinitionBuilder<FeatureDefinitionPower>
     {
         private const string InspiringSurgePowerName = "InspiringSurgePower";
-        private const string InspiringSurgePowerNameGuid = "620bab59-8dc0-4918-95fc-5065986a6737";
+        private const string InspiringSurgePowerNameGuid = "c2930ad2-dd02-4ff3-bad8-46d93e328fbd";
 
         protected InspiringSurgePowerBuilder(string name, string guid)
           : base(DatabaseHelper.FeatureDefinitionPowers.PowerDomainLifePreserveLife, name, guid)

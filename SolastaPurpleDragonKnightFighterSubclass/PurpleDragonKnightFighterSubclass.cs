@@ -11,7 +11,7 @@ namespace SolastaPurpleDragonKnightFighterSubclass
     public static class PurpleDragonKnightFighterSubclassBuilder
     {
         private const string PurpleDragonKnightFighterSubclassName = "PurpleDragonKnight";
-        private const string PurpleDragonKnightFighterSubclassNameGuid = "2314d5a2-0a7d-471e-849d-7f8825c2523e";
+        private const string PurpleDragonKnightFighterSubclassNameGuid = "f5efd735-ff95-4256-ad17-dde585aeb4e2";
 
         public static FeatureDefinitionPower RallyingCryPower;
         public static FeatureDefinitionFeatureSet RoyalEnvoy;

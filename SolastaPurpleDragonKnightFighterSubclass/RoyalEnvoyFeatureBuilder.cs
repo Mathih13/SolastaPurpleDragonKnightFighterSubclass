@@ -11,7 +11,7 @@ namespace SolastaPurpleDragonKnightFighterSubclass
     BaseDefinitionBuilder<FeatureDefinitionAbilityCheckAffinity>
     {
         private const string RoyalEnvoyAbilityCheckName = "RoyalEnvoyAbilityCheckAffinity";
-        private const string RoyalEnvoyAbilityCheckGuid = "f60028d4-1c53-4e51-b1a6-07f38f1cbcf5";
+        private const string RoyalEnvoyAbilityCheckGuid = "b16f8b68-0dab-49e5-b1a2-6fdfd8836849";
 
         protected RoyalEnvoyAbilityCheckAffinityBuilder(string name, string guid)
           : base(DatabaseHelper.FeatureDefinitionAbilityCheckAffinitys.AbilityCheckAffinityChampionRemarkableAthlete, name, guid)
@@ -34,7 +34,7 @@ namespace SolastaPurpleDragonKnightFighterSubclass
     public class RoyalEnvoyFeatureBuilder : BaseDefinitionBuilder<FeatureDefinitionFeatureSet>
     {
         private const string RoyalEnvoyFeatureName = "RoyalEnvoyFeature";
-        private const string RoyalEnvoyFeatureGuid = "14382b16-e88e-48a0-9ea4-82e353b41136";
+        private const string RoyalEnvoyFeatureGuid = "c8299685-d806-4e20-aff0-ca3dd4000e05";
 
         protected RoyalEnvoyFeatureBuilder(string name, string guid)
           : base(DatabaseHelper.FeatureDefinitionFeatureSets.FeatureSetChampionRemarkableAthlete, name, guid)
